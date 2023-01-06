@@ -2,8 +2,8 @@ name: solvingmicrodsops
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - econ-ark=0.12
+  - python==3.9
+  - econ-ark==0.12
   - ipywidgets
   - jupyterlab
   - matplotlib

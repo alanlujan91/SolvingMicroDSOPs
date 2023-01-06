@@ -1,3 +1,4 @@
+python==3.9
 econ-ark==0.12
 ipywidgets
 jupyterlab
@@ -5,5 +6,4 @@ matplotlib
 matplotlib-base
 numpy
 pandas
-python
 voila

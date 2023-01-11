@@ -1,9 +1,0 @@
-python==3.8
-econ-ark==0.12
-ipywidgets
-jupyterlab
-matplotlib
-matplotlib-base
-numpy
-pandas
-voila
